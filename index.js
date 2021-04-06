@@ -1,1 +1,3 @@
-console.log("Hello world")
+let colors = require('colors')
+
+console.log('Hello world'.rainbow)
